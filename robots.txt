@@ -1,0 +1,5 @@
+User-agent: * 
+Allow: / 
+Disallow: /casino/
+Host: https://gonzos-questslot.com/
+Sitemap: https://gonzos-questslot.com/sitemap.xml

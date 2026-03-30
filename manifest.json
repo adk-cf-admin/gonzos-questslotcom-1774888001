@@ -1,0 +1,19 @@
+{
+  "name": "Gonzo's Quest",
+  "short_name": "Gonzo's Quest",
+  "theme_color": "",
+  "background_color": "#91834F",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "_assets/images/1774887528-logo-ab10fd1ad3-e0e0ynbouw-26f1c40db6-1.webp",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "splash_pages": null
+}
